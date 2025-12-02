@@ -1,5 +1,20 @@
-# README.md
-1.x $ 
-zshdevopscatftw 🚀🐱
-GitHub stars GitHub forks GitHub issues License
-zshdevopscatftw is your ultimate Zsh powerhouse for DevOps warriors who live for automation, cloud orchestration, and Terraform sorcery. Built by Catdev (that's me, the whisker-wielding wizard), this repo fuses Zsh's lightning-fast shell scripting with battle-tested DevOps tools. Say goodbye to clunky bash workflows and hello to a cat-like agile terminal that meows at bugs and purrs for PRs. > $ 
+🐱 ac / zshdevopscatftw
+AI-Powered Game Developer • Tools Engineer • Emulator Creator • Nintendo-Style Prototyper
+
+🚀 Building futuristic game engines, dev tools, and AI-driven workflows.
+🎮 Specializing in Nintendo-style gameplay prototypes, Ursina engines, Python/C++ frameworks, and high-performance emulator research.
+🤖 Creator of multi-agent systems, CLI launchers, and custom AI pipelines powering Samsoft & Flames Co.
+
+🔥 What I Build
+
+AI-assisted game engines (Pygame, Ursina, C++, custom renderers)
+
+Educational console emulators (NES, N64, 3DS; CPU/PPU/RSP/RDP simulations)
+
+DevOps automation toolchains (Zsh, Bash, macOS M-series optimizations)
+
+AI IDEs & assistants (Tkinter IDEs, agent systems, workflow orchestrators)
+
+Simulation SDKs (EmuSDK, UltraSim, Samsoft workflows)
+
+Procedural games & flash-style engines (Mario, PvZ, Kirby-inspired prototypes)
